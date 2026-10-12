@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/corydolphin/flask-cors/commit/ad4f355791dc251227a48a35419f5f144e44a22f",
       "git:hexsha": "ad4f355791dc251227a48a35419f5f144e44a22f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T20:19:08.782368+00:00"
     },
     {
       "@id": "https://repolex.ai/r/corydolphin/flask-cors/commit/ade65a16524c628747aecaaa73c1d615501974b2",
