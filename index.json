@@ -1,0 +1,11 @@
+{
+  "org": "corydolphin",
+  "repo": "flask-cors",
+  "versions": [
+    {
+      "commit": "ad4f355791dc251227a48a35419f5f144e44a22f",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:19:08.783103+00:00"
+    }
+  ]
+}
